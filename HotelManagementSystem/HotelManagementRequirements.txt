@@ -1,0 +1,11 @@
+Hotel Management System
+
+Requirements
+
+1. System should support the booking of different types room booking like standard, deluxe etc.
+2. Guest should be able to search the room inventory and book any available room.
+3. The system should be able to retrieve information, such as who booked the particular room, or what rooms are booked by specific customer.
+4. The should allow customer to cancel their booking - and provide them full refund if cancellation occurs before 24 hours.
+5. The system should maintain a room housekeeping log to keep track of all housekeeping tasks.
+6. Admin should be able to add delete or edit a room.
+7. Receptionist should be able to check in and check out a guest.
