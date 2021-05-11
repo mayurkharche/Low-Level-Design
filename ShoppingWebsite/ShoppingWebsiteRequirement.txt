@@ -1,0 +1,11 @@
+Shopping Website
+
+Requirements
+
+1. User should be able to add new products to sell.
+2. User should be able to search for products with their name or category.
+3. User can search and view all products, but they must be a registered member to buy or add product.
+4. User should be able to add/remove/modify product items in their shopping cart.
+5. Users can rate and add review for a product.
+6. Users should get notifications whenever there is a change in order or shipping status.
+7. Users should be able to track their shipment to the current state of their order.
