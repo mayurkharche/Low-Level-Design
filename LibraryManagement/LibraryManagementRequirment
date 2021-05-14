@@ -1,0 +1,31 @@
+Library Management Requirements
+
+1. Any library member should be able to search book by thier title, author, subject category and date of publication.
+2. Each book will have a unique identification number and other details including a rack number which will help to physically locate the book.
+3. There could be more than one copy of book, and library member should be able to check-out and reserve any copy. We will call each copy of a book, a book item.
+4. The system should be able to retrive information like who took a particular book or what are the book checked out by a specific library member.
+5. There should be a maximum limit 5 on how many book a member could check out.
+6. There should be a maximum limit 10 days a member can keep the book.
+7. The system should be able to collect fines for books returned after the due date.
+8. Members should be able to reserve books that are not currently available.
+9. The system should be able to send notifications whenever the reserved books become available as well as book is not returned in due date.
+10. Each book and member card will have a unique bar code. The system will be able to read barcode from the boos and members library cards.
+
+
+Actors :
+
+1. Librarian
+2. Customer
+3. System/Server
+
+Use Cases : 
+
+Here are the top use cases of Library Management System
+
+1. Add/Remove/Edit Book 
+2. Search Book 
+3. Send Notification
+4. Issue a book
+5. Reserve a book
+6. Renew a book
+7. Return a book
